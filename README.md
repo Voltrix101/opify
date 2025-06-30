@@ -1,12 +1,33 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-![Opify](https://i.ibb.co/W6g39w3/image.png)
+# Opify - Glassmorphism Admin Dashboard
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+![Opify Dashboard](screenshot.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+## ✨ Modern, Beautiful React Admin Dashboard
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+Opify is a cutting-edge admin dashboard featuring:
+- Universal glassmorphism design (frosted glass, blur, and transparency)
+- Stunning mountain background for a premium look
+- Customizable themes and accent colors
+- Responsive sidebar and navbar
+- Interactive tables, charts, Kanban board, calendar, and more
+- Built with React, Tailwind CSS, and Syncfusion components
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## 🚀 Features
+- **Glassmorphism UI**: Every panel, card, and table uses a frosted glass effect
+- **Live Theme Customization**: Switch between light/dark and accent colors
+- **Charts & Analytics**: Line, bar, pie, and more
+- **Kanban Board**: Drag-and-drop task management
+- **Calendar**: Schedule and manage events
+- **Responsive Design**: Works on all devices
+
+## 📸 Preview
+See the screenshot above for a preview of the Opify dashboard in action!
+
+## Getting Started
+1. Clone the repo
+2. Install dependencies: `npm install`
+3. Start the app: `npm start`
+
+---
+
+© 2025 Opify. All rights reserved.
